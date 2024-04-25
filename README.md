@@ -1,7 +1,7 @@
 # 🃏 Jogo da Memória do JáJá 🃏
 https://github.com/skypse/Projeto-08-JavaScript-Homenagem-JaJa/assets/97822775/f973b486-9c31-4919-8e7a-58d78152278d
 
-Este é um jogo clássico de Snake, onde o jogador controla uma cobra que se move pelo tabuleiro, comendo comida e crescendo em tamanho. O objetivo é evitar colidir com as bordas do tabuleiro ou com o próprio corpo da cobra.
+Este é um projeto de jogo da memória desenvolvido em homenagem ao aniversário do Professor Jailson. O jogo apresenta memes engraçados relacionados ao professor e oferece uma experiência divertida
 
 ### ⚙️ Funcionalidades Principais:
 
